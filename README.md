@@ -64,7 +64,7 @@ The easiest way to test issue with Pebble is to use `chisel2` from the
 2. `cd certbot`
 3. `letsencrypt-auto-source/letsencrypt-auto --os-packages-only`
 4. `./tools/venv.sh`
-5. `. venev/bin/activate`
+5. `. venv/bin/activate`
 6. `python ./tools/chisel2.py example.com`
 
 
